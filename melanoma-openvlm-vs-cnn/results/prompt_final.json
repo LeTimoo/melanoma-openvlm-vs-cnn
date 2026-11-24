@@ -1,0 +1,13 @@
+{
+ "final_prompt_version": "v2",
+ "prompt": "This is a dermoscopic image of one melanocytic skin lesion. Is it a melanoma or a benign nevus? Answer in exactly this form: \"Diagnosis: melanoma\" or \"Diagnosis: nevus\".",
+ "prefix": "Diagnosis:",
+ "log": [
+  "v1: initial prompt",
+  "v2: same prompt; LLaVA-OneVision images resized to 384x384 because the few-shot prompt (5 images) ran out of GPU memory in v1. All arms re-run under v2."
+ ],
+ "models": {
+  "qwen": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "llava": "llava-hf/llava-onevision-qwen2-7b-ov-hf"
+ }
+}

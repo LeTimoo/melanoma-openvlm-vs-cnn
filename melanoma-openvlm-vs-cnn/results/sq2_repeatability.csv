@@ -1,0 +1,3 @@
+arm,fleiss_kappa,identical_all_repeats,unclear_answer_rate,agreement_with_main_label,sampled_accuracy
+qwen_zero,0.1736,0.56,0.0267,0.795,0.5467
+llava_zero,0.0866,0.475,0.0,0.75,0.525

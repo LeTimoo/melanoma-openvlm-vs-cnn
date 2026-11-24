@@ -1,0 +1,7 @@
+arm,TP,FN,TN,FP
+resnet50,67,33,82,18
+efficientnet_b0,80,20,62,38
+qwen_zero,96,4,13,87
+qwen_few,75,25,58,42
+llava_zero,8,92,97,3
+llava_few,2,98,100,0

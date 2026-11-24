@@ -1,0 +1,3 @@
+llm,auc_zero,auc_few,p_delong,p_mcnemar_sens,p_mcnemar_spec
+qwen,0.6386,0.7,0.0154,0.0,0.0
+llava,0.664,0.67,0.8392,0.0312,0.25
